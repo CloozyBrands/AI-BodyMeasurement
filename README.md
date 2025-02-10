@@ -12,20 +12,6 @@ This project is a **FastAPI-based AI system** that predicts **body measurements*
 
 ---
 
-## 🏗️ Project Structure  
-/app
-│── main.py # FastAPI backend for handling requests
-│── single_person_processor.py # Image processing & AI prediction logic
-│── best_model.keras # Trained deep learning model
-│── /notebooks # Jupyter notebooks for training and evaluation
-│── /docs # Documentation and API usage examples
-│── requirements.txt # Dependencies for running the project
-│── .gitignore # Files to be ignored by Git
-│── LICENSE # Project license
-│── README.md # Project documentation
-
-
----
 
 ## 🚀 Installation  
 
