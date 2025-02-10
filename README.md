@@ -19,9 +19,9 @@ To set up the project, follow these steps:
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-org-name/your-repo-name.git
-cd your-repo-name
-
+git clone https://github.com/CloozyBrands/AI-BodyMeasurement.git
+```
+---
 ### **2️⃣ Install Dependencies**  
 ```bash
 pip install -r requirements.txt
